@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MT-G",
+      "name": "MT-G",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61514712?v=4",
+      "profile": "https://github.com/MT-G",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ibda2022",
+  "projectOwner": "pareyesv",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

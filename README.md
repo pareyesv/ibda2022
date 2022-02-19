@@ -1,6 +1,6 @@
 # ibda2022
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Notes/slides and notebooks for the course [PATC: Introduction to Big Data Analytics 2022 - Practical Data Analytics for Solving Real World Problems](https://www.bsc.es/education/training/patc-courses/online-patc-introduction-big-data-analytics-0/agenda)
@@ -21,6 +21,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pareyesv.github.io"><img src="https://avatars.githubusercontent.com/u/7954142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pareyesv</b></sub></a><br /><a href="#content-pareyesv" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.jcarloscarrasco.com/"><img src="https://avatars.githubusercontent.com/u/16986949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Carrasco</b></sub></a><br /><a href="#content-jccarrsco" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.dim.uchile.cl/~alsilva/"><img src="https://avatars.githubusercontent.com/u/30263736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alonso Silva Allende</b></sub></a><br /><a href="#content-alonsosilvaallende" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/acarreri"><img src="https://avatars.githubusercontent.com/u/73544234?v=4?s=100" width="100px;" alt=""/><br /><sub><b>acarreri</b></sub></a><br /><a href="#content-acarreri" title="Content">🖋</a></td>
   </tr>
 </table>
 

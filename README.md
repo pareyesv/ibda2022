@@ -1,6 +1,6 @@
 # ibda2022
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Notes/slides and notebooks for the course [PATC: Introduction to Big Data Analytics 2022 - Practical Data Analytics for Solving Real World Problems](https://www.bsc.es/education/training/patc-courses/online-patc-introduction-big-data-analytics-0/agenda)
@@ -23,6 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.dim.uchile.cl/~alsilva/"><img src="https://avatars.githubusercontent.com/u/30263736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alonso Silva Allende</b></sub></a><br /><a href="#content-alonsosilvaallende" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/acarreri"><img src="https://avatars.githubusercontent.com/u/73544234?v=4?s=100" width="100px;" alt=""/><br /><sub><b>acarreri</b></sub></a><br /><a href="#content-acarreri" title="Content">🖋</a></td>
     <td align="center"><a href="http://anaraven.bitbucket.io/"><img src="https://avatars.githubusercontent.com/u/7228142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andres Aravena</b></sub></a><br /><a href="#content-anaraven" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/pcm32"><img src="https://avatars.githubusercontent.com/u/368478?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pablo Moreno</b></sub></a><br /><a href="#content-pcm32" title="Content">🖋</a></td>
   </tr>
 </table>
 

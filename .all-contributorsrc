@@ -58,6 +58,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "pcm32",
+      "name": "Pablo Moreno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/368478?v=4",
+      "profile": "https://github.com/pcm32",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

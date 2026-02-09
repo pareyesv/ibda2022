@@ -23,9 +23,10 @@ slideOptions:
 - member of PyBCN 
 - repos
     - [cuentalo](https://github.com/BSCCNS/cuentalo-dataset)
-    - [Streamlit-Urbana](https://share.streamlit.io/pareyesv/streamlit-urbana) ==looking for collaborators==
-- twitter: @pareyesv
+    - [Streamlit-Urbana](https://share.streamlit.io/pareyesv/streamlit-urbana)
+- X: [@pareyesv](https://x.com/pareyesv)
 - github: [pareyesv](https://github.com/pareyesv)
+- LinkedIn: [patricioreyes](https://www.linkedin.com/in/patricioreyes)
 
 
 ----
@@ -36,11 +37,7 @@ slideOptions:
 
 ### Your Name here
 
-- Lisana Berberi, researcher at KIT. Computer Science background. Interested in databases, DWH, business process management.
-- Josep Jorba, research engineer at BSC, CAOS group. Multicore contention analysis, embedded systems/time-critical.
-- Berta Gallego. Bioinformatics at Kew Botanic Garden (London). 
-- Buket Benek Gursoy, Computational Scientist, ICHEC (Irish Centre for High-End Computing).
-- ...
+- Your name...
 
 ----
 
@@ -49,10 +46,7 @@ slideOptions:
 feel free to collaborate on this presentation
 - suggestions?
 - new content?
-- errors?
-    - typos
-    - Italenglish?
-    - Spanglish?
+- errors, typos?
 
 ----
 
@@ -103,12 +97,26 @@ feel free to collaborate on this presentation
 
 ----
 
-- Python
-- Chocolate :chocolate_bar: 
-- Anaconda
 - Github + Google (colab)
+- Python
 - Brewed coffee :coffee:
+- Chocolate :chocolate_bar:
 - Good Will!
+
+---
+
+
+<!-- .slide: data-background="https://media.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif" -->
+
+# Target audience
+
+----
+
+- Who is this tutorial for?
+    - PhD students, master thesis students
+    - researchers
+- working on
+    - personal/data-science projects
 
 ---
 
@@ -190,11 +198,14 @@ feel free to collaborate on this presentation
 ## Data Science Template
 
 - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
-    - [You will thank you](https://drivendata.github.io/cookiecutter-data-science/#:~:text=You%20will%20thank%20you)
+    - [You will thank you](https://cookiecutter-data-science.drivendata.org/why/#you-will-thank-you)
+- Github templates
+    - [project-templates · GitHub Topics](https://github.com/topics/project-templates)
+    - [Creating a repository from a template - GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ----
 
-## Install the template
+## Install the Data Science template
 
 - [data science template](https://drivendata.github.io/cookiecutter-data-science/#example)
 
@@ -202,7 +213,7 @@ feel free to collaborate on this presentation
 
 ## Directory Structure
 
-- [structure](https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
+- [structure](https://cookiecutter-data-science.drivendata.org/#directory-structure)
 
 ----
 
@@ -214,15 +225,6 @@ feel free to collaborate on this presentation
 - ==Don't overwrite your raw data==
 - Treat the data (and its format) as immutable.
 - data folder in `.gitignore`
-
-----
-
-## Data version control
-
-- databases
-- [Data Version Control · DVC](https://dvc.org/)
-- [Git Large File Storage](https://git-lfs.github.com)
-- [AWS Amazon Simple Storage Service (S3)](https://aws.amazon.com/s3/)
 
 ----
 
@@ -243,10 +245,20 @@ feel free to collaborate on this presentation
     - CookieCutter
         - See also: [Copier](https://github.com/copier-org/copier)
     - documentation
-        - Sphinx
         - MkDocs
+        - Sphinx
 
 ----
+
+## Data version control
+
+- [Data Version Control · DVC](https://dvc.org/)
+- [Git Large File Storage](https://git-lfs.github.com)
+- [MLflow Dataset Tracking | MLflow](https://mlflow.org/docs/latest/ml/dataset/)
+- [AWS Amazon Simple Storage Service (S3)](https://aws.amazon.com/s3/)
+
+----
+
 
 ## Template for Workflows
 
@@ -264,10 +276,11 @@ feel free to collaborate on this presentation
 
 ----
 
-## jupyter notebook
+## Jupyter notebook
 
 - [Project Jupyter | Home](https://jupyter.org/)
     - [Try it online](https://docs.jupyter.org/en/latest/start/index.html#try-in-your-browser-no-installation-needed)
+- notebooks in the IDE
 
 ----
 
@@ -281,7 +294,6 @@ feel free to collaborate on this presentation
 > notebooks are just for exploration
 
 - [I don't like notebooks - Joel Grus](https://pyvideo.org/jupytercon-2018/i-dont-like-notebooks-joel-grus-allen-institute-for-artificial-intelligence.html)
-- well...
 - let's deploy jupyter notebooks :zipper_mouth_face: 
 
 ----
@@ -318,15 +330,30 @@ feel free to collaborate on this presentation
 
 ### webapps / Dashboarding
 
-- voilà
-    - [voilà: notebook running on heroku](https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html)
+- :star: [GitHub Star History](https://www.star-history.com/#marimo-team/marimo&streamlit/streamlit&gradio-app/gradio&widgetti/solara&type=date&legend=top-left)
 - streamlit
     - [GitHub - alonsosilvaallende/streamlit-test](https://github.com/alonsosilvaallende/streamlit-test)
     - [Streamlit-Urbana](https://share.streamlit.io/pareyesv/streamlit-urbana)
+- [Gradio](https://www.gradio.app/)
+- [Solara: Build high-quality web applications in pure Python](https://solara.dev/)
+
+----
+
+### webapps / Dashboarding (2)
+
+- voilà
+    - [voilà: notebook running on heroku](https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html)
 - anvil
     - [local notebook to a webapp](https://anvil.works/learn/tutorials/jupyter-notebook-to-web-app)
         - [simple tutorial](https://medium.com/datadriveninvestor/create-your-own-machine-learning-app-with-anvil-basic-6bf3503e80f1)
     - [webapp with user registration](https://anvil.works/learn/tutorials/hello-world)
+
+---
+
+# Maria Teresa Grifa
+
+- data scientist at Bridgestone EMA
+- github: MT-G
 
 ---
 
@@ -385,7 +412,7 @@ feel free to collaborate on this presentation
 - consistency of units
 - consistency of scales
 - consistency of file, folder names, etc..
-- data testing (Great Expectations)
+- data testing 
 
 ----
 
@@ -393,7 +420,7 @@ feel free to collaborate on this presentation
 
 ----
 
-### ==Problem identification==
+### Problem identification
 
 - analysis before modelling
 - the objective is to understand the problem in order to generate testable hypotheses
@@ -414,29 +441,8 @@ feel free to collaborate on this presentation
 - correlation between features
 - relationships and pattern due to the structure of the data
 
-----
-
-![duck](https://flowingdata.com/wp-content/uploads/2014/06/rabbit-or-duck.jpg "Duck") 
-
-----
-
-## Hands-on
-
-- [EDA pandas profiling](https://github.com/pareyesv/ibda2022/blob/main/notebooks/hands-on/1.0-eda_pandas_profiling.ipynb)
-- [Data preparation: Anime dataset notebook](https://github.com/pareyesv/ibda2021/blob/main/notebooks/data-analysis/1.1-data_analysis.ipynb)
-    - Data Consolidation
-    - EDA
-
 ---
 
-
-# Maria Teresa Grifa
-
-- data scientist at Bridgestone EMA
-- github: MT-G
-
-
----
 
 ## Visualization
 
@@ -501,15 +507,6 @@ A diverging palettes can be created by combining two sequential palettes (e.g. j
     - two hue are used indicating a division, such as positive and negative values or booleans 
     -  there is a value of importance around which the data are to be compared
 
-----
-
-### Pick by hand colors
-
-> Even when you can setup the variable as discrete, there are no way to be sure the combination of the colors is well balanced and nice to see, that is something completely arbitrary and subjective
-
-
-
-[https://xkcd.com/color/rgb/](https://xkcd.com/color/rgb/)
 
 ----
 
@@ -527,9 +524,18 @@ A diverging palettes can be created by combining two sequential palettes (e.g. j
     - It works with entire datasets treated as solitary unit
     - it contains more inbuilt theme, and it is considerably more organized and functional than Matplotlib and treats the entire dataset as a solitary unit
 
+----
+
+## Hands-on
+
+- [EDA pandas profiling](https://github.com/pareyesv/ibda2022/blob/main/notebooks/hands-on/1.0-eda_pandas_profiling.ipynb)
+- [Data preparation: Anime dataset notebook](https://github.com/pareyesv/ibda2021/blob/main/notebooks/data-analysis/1.1-data_analysis.ipynb)
+    - Data Consolidation
+    - EDA
+
 ---
 
-## Machine Learning
+## Machine Learning Intro
 
 ----
 
@@ -655,7 +661,7 @@ $$L_{\textbf{w}, b}= \prod_{i=1}^{N} f_{\textbf{w}, b}(\textbf{x}_{i})^{y_{i}}
 When $y_{i}=1$ then $f_{\textbf{w}, b}(\textbf{x})$
 When $y_{i}=0$ then $(1- f_{\textbf{w}, b}(\textbf{x}))$
 
-No close solution, use numerical optimization using **gradient descent**
+No close solution, use numerical optimization via **gradient descent**
 
 ---
 
@@ -715,6 +721,11 @@ Define features with high predictive power
 On Big Data: 95% training set, 2.5% validation set, 2.5% test set
 
 ----
+### Model Performace Visualization
+
+![image alt](https://cdn.hashnode.com/res/hashnode/image/upload/v1591931791416/qtb6eievP.png)
+
+----
 
 ## Model Performace 
 
@@ -744,12 +755,6 @@ How to solve:
 - how to solve: 
     - increase the algo complexity
     - engineer fetures with higher predictive power
-
-----
-
-### Model Performace Visualization
-
-![image alt](https://cdn.hashnode.com/res/hashnode/image/upload/v1591931791416/qtb6eievP.png)
 
 ----
 
@@ -809,31 +814,22 @@ define a search space as a grid of hyperparameter values and evaluate every posi
 
 [colab](https://github.com/pareyesv/ibda2021/blob/main/notebooks/hands-on/1.1-eda_pandas_profiling.ipynb) :arrow_left: 
 
-- [pandas-profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/)
-    - [Titanic](https://pandas-profiling.github.io/pandas-profiling/examples/master/titanic/titanic_report.html)
-    - [1978 Automobile dataset](https://pandas-profiling.github.io/pandas-profiling/examples/master/stata_auto/stata_auto_report.html)
-    - [Census Dataset](https://pandas-profiling.github.io/pandas-profiling/examples/master/census/census_report.html)
-    - [more examples](https://github.com/pandas-profiling/pandas-profiling#examples)
+- [ydata-profiling](https://docs.profiling.ydata.ai/latest/) (formerly pandas-profiling)
+- [Examples](https://github.com/ydataai/ydata-profiling?tab=readme-ov-file#-examples)
+    - [Titanic](https://github.com/ydataai/ydata-profiling/blob/3990956/examples/titanic/titanic_report.html)
+    - [1978 Automobile dataset](https://github.com/ydataai/ydata-profiling/blob/3990956/examples/stata_auto/stata_auto_report.html)
+    - [Census Dataset](https://github.com/ydataai/ydata-profiling/blob/3990956/examples/census/census_report.html)
+
 
 ----
 
 ## 2. scikit-learn (Colab)
 
-[colab](https://colab.research.google.com/github/pareyesv/ibda2021/blob/main/notebooks/hands-on/LinearRegressionWithSkitLearn.ipynb) :arrow_left: 
-
 - linear regression
-    
-[colab](https://colab.research.google.com/github/pareyesv/ibda2021/blob/main/notebooks/hands-on/LogisticRegressionWithSkitLearn.ipynb) :arrow_left: 
-
+    - [colab](https://colab.research.google.com/github/pareyesv/ibda2022/blob/main/notebooks/hands-on/2.0-linear_regression_with_scikit_learn.ipynb) :arrow_left: 
 - logistic regression
+    - [colab](https://colab.research.google.com/github/pareyesv/ibda2022/blob/main/notebooks/hands-on/3.0-logistic_regression_with_scikit_learn.ipynb) :arrow_left: 
 
-----
-
-## 3. advent of code 2020 
-
-[notebook colab](https://colab.research.google.com/github/pareyesv/ibda2021/blob/main/notebooks/hands-on/1.3-advent_of_code_2020_day1.ipynb) :arrow_left: 
-
-- Day 1
 
 ----
 
@@ -856,9 +852,9 @@ define a search space as a grid of hyperparameter values and evaluate every posi
 ----
 
 - Data Consolidation
-    - [great-expectation](https://greatexpectations.io/)
+    - [great-expectations](https://greatexpectations.io/)
 - EDA 
-    - [pandas profiling](https://github.com/pandas-profiling/pandas-profiling)
+    - [ydataai/ydata-profiling: 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.](https://github.com/ydataai/ydata-profiling)
 - Visualization 
     - [understand types of plots](https://totaldatascience.com/wp-content/uploads/2019/10/p75.png)
     - [matplotlib cheatsheet](https://totaldatascience.com/wp-content/uploads/2019/10/p59.pdf)
@@ -895,3 +891,7 @@ define a search space as a grid of hyperparameter values and evaluate every posi
         - Luciano Ramhamallo
     - The hundred-page machine learning book
         - Andriy Burkov
+    - Machine Learning with PyTorch and Scikit-learn
+        - Sebastian Raachka
+    
+

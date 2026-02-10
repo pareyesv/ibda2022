@@ -33,11 +33,30 @@ slideOptions:
 
 # ==You ?==
 
+- Vinay Narayanappa
+- Albert Martinez
+- Elnaz Ghorbani
+- Patricio Reyes
+- Oscar Collado
+- Raphael Grodofzig
+
 ----
 
-### Your Name here
+- Carlos Moreno Escobar
+- Juan David Valencia Mendieta
+- Marta Curto
+- Marc Palacín Marfil
+- Ariadna Batalla Ferrés
+- Alejandro Astruc
 
-- Your name...
+----
+
+- Amadeu Moya Sardà
+- Karla Vizcarra L.
+- Alejandro Aguirre
+- Andrés Castro
+- Cristina España-Bonet
+- Carme Armentano Oller
 
 ----
 
@@ -812,13 +831,23 @@ define a search space as a grid of hyperparameter values and evaluate every posi
 
 <!-- .slide: data-background="https://media.giphy.com/media/OJw4CDbtu0jde/giphy.gif" -->
 
-[colab](https://github.com/pareyesv/ibda2021/blob/main/notebooks/hands-on/1.1-eda_pandas_profiling.ipynb) :arrow_left: 
+[colab](https://github.com/pareyesv/ibda2022/tree/main/notebooks/hands-on) :arrow_left:
 
 - [ydata-profiling](https://docs.profiling.ydata.ai/latest/) (formerly pandas-profiling)
-- [Examples](https://github.com/ydataai/ydata-profiling?tab=readme-ov-file#-examples)
-    - [Titanic](https://github.com/ydataai/ydata-profiling/blob/3990956/examples/titanic/titanic_report.html)
-    - [1978 Automobile dataset](https://github.com/ydataai/ydata-profiling/blob/3990956/examples/stata_auto/stata_auto_report.html)
-    - [Census Dataset](https://github.com/ydataai/ydata-profiling/blob/3990956/examples/census/census_report.html)
+- [Examples](https://docs.profiling.ydata.ai/latest/getting-started/examples/)
+    - [Titanic](https://docs.profiling.ydata.ai/4.10/examples/titanic/titanic_report.html)
+    - [1978 Automobile dataset](https://docs.profiling.ydata.ai/latest/examples/stata_auto/stata_auto_report.html)
+    - [Census Dataset](https://docs.profiling.ydata.ai/latest/examples/census/census_report.html)
+
+----
+
+> :warning: If you run the Jupyter Notebook locally, bear the following in mind:
+> 
+> - If you are using a Python 3.12 kernel, install the additional dependencies:
+>   ```bash
+>   pip install --upgrade setuptools==81
+>   pip install scikit-learn ipywidgets
+>   ```
 
 
 ----
